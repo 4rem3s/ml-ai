@@ -6,5 +6,6 @@ This is documentation and archive for my ml-ai projects
 ### Mnist Handwritten Digits Recognition code: [Here](https://github.com/4rem3s/ml-ai/blob/main/mnist-digits-nn.py)
 
 # 2. Binary Image Classification:
+## Image classification betweem sneakers and ankle boots from fashion mnist dataset
 ### Training : [model](https://github.com/4rem3s/ml-ai/blob/main/bic_train.py)
 ### Testing : [test](https://github.com/4rem3s/ml-ai/blob/main/bic_test.py) 
