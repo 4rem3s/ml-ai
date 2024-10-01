@@ -9,3 +9,7 @@ This is documentation and archive for my ml-ai projects
 ## Image classification betweem sneakers and ankle boots from fashion mnist dataset
 ### Training : [model](https://github.com/4rem3s/ml-ai/blob/main/bic_train.py)
 ### Testing : [test](https://github.com/4rem3s/ml-ai/blob/main/bic_test.py) 
+
+# 3. Linear Regession
+### Code : [Click Here](https://github.com/4rem3s/ml-ai/blob/main/linear-regression.py)
+![Screenshot from 2024-10-01 08-26-28](https://github.com/user-attachments/assets/8c2dbb98-e5c6-419f-9474-12864579a842)
